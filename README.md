@@ -14,3 +14,8 @@ Modulation is a process to transmit message signal. There are various digital  m
 Run the "compare.m" file in Matlab folder. It will re-generate different images for different SNR values. Following is the error graph for different SNR values.
 
 ![Error Graph](img/err.PNG)
+
+## C++ Implementation
+Run the main.cpp file. It will modulate-->generate noise-->add noise -->demodulates.
+
+This project waas further implemented on zedboard.
