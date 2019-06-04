@@ -9,3 +9,8 @@ Modulation is a process to transmit message signal. There are various digital  m
 
 ## General Work Flow
 ![Workflow](img/work.PNG)
+
+## Matlab Implementation
+Run the "compare.m" file in Matlab folder. It will re-generate different images for different SNR values. Following is the error graph for different SNR values.
+
+![Error Graph](img/err.PNG)
