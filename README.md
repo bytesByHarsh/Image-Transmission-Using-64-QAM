@@ -1,5 +1,6 @@
 # Image-Transmission-Using-64-QAM
-Transfer Image over wired channel using 64 QAM
+Transfer Image over wired and wireless channel using 64 QAM
+
 Video Link - https://youtu.be/-MvTl2pfDNA
 ## Introduction
 
