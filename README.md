@@ -20,3 +20,6 @@ Run the "compare.m" file in Matlab folder. It will re-generate different images 
 Run the main.cpp file. It will modulate-->generate noise-->add noise -->demodulates.
 
 This project waas further implemented on zedboard.
+
+## Status - Completed
+Both C++ code and MATLAB code are available and working. The final C++ code was implmennted over zedboard where images were sent wirelessly to another zedboard.
